@@ -35,4 +35,5 @@
     "maxProperties": 1,
     "memo": "Specifies the EnergyPlus version of the IDF file.",
     "format": "singleLine"
-}```
+}
+```
